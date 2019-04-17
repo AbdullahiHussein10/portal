@@ -17,7 +17,7 @@
           <td>Date Of Birth</td>
           <td>Enrollment Date</td>
           <td>Home Address</td>
-          <td>ssssssssTasks</td>
+          <td>Tasks</td>
         </tr>
     </thead>
     <tbody>
