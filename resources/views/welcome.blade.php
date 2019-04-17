@@ -12,7 +12,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #0abda0;
+                background-color: grey;
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
@@ -83,15 +83,15 @@
 
             <div style="background-color:#03353E" class="content">
                 <div class="title m-b-md">
-                    Portals
+                    School System
                 </div>
 
                 <div class="links">
-                    <a href="/about">About</a>
-                    <a href="/contact">Contact</a>
-                    <a href="/updates">Updates</a>
+                    <a href="/studentdetails">Students Details</a>
+                    <a href="/studentsperfomance">Students perfomance</a>
+                    <a href="/fees_structure">Fees Stucture</a>
                     <a href="/announcements">Announcements</a>
-                    <a href="link">Social Media link Account</a>
+                    <a href="/subject">Subjects</a>
                 </div>
             </div>
         </div>
